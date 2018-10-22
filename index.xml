@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samuel Maron on Samuel Maron</title>
+    <link>https://sjmaron.github.io/</link>
+    <description>Recent content in Samuel Maron on Samuel Maron</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Interface</title>
+      <link>https://sjmaron.github.io/publication/interface/</link>
+      <pubDate>Fri, 19 Oct 2018 13:46:48 -0400</pubDate>
+      
+      <guid>https://sjmaron.github.io/publication/interface/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
